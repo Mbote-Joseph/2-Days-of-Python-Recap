@@ -1,0 +1,17 @@
+string = "The sunset sets at twelve o' clock."
+
+print("The  string is:", string)
+print("The length of the string is:", len(string))
+print("The first character of the string is:", string[0])
+print("The last character of the string is:", string[-1])
+print(string.lower())
+print(string.upper())
+print(string.title())
+print(string.replace("o", "a"))
+print(string.split())
+print("The string is:"+ string)
+print(f"The string is: {string}")
+print(string.isupper())
+print(string.islower())
+print(string.istitle())
+print(string.isalpha())
