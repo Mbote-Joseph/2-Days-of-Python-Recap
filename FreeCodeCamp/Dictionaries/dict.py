@@ -1,3 +1,9 @@
+# Dictionaries are a collection of key-value pairs.
+# They are unordered, changeable and indexed.
+# They are mutable.
+# They are iterable.
+# They are hashable.
+# They are callable.
 monthsConversions={
     "Jan": "January",
     "Feb": "February",
@@ -14,4 +20,4 @@ monthsConversions={
 }
 print(monthsConversions["Jan"])
 print(monthsConversions["Dec"])
-monthsConversions.get("Dec")
+print(monthsConversions.get("Dec"))
