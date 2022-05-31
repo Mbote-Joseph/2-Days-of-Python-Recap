@@ -1,0 +1,5 @@
+Student: Anna	Course: MIT	GPA: 3.5	Category: First Class
+Student: Bob	Course: MIT	GPA: 3.0	Category: Upper Second Class
+Student: Cathy	Course: MIT	GPA: 2.5	Category: Lower Second Class
+Student: David	Course: MIT	GPA: 2.0	Category: Pass
+Student: Eve	Course: MIT	GPA: 1.5	Category: Fail
